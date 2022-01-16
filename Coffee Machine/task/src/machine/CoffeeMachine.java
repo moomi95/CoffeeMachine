@@ -66,11 +66,11 @@ public class CoffeeMachine {
 
 
         int coffeMadeableAfterMakingSome = coffeeMax - numberOfCups - 1;
+
         if (waterNeeded > waterAmount || milkNeeded > milkAmount || coffeeNedded > coffeeAmount) {
             System.out.println("Sorry I cant make this much coffee.");
         } else if (waterNeeded < waterAmount && milkNeeded < milkAmount && coffeeNedded < coffeeAmount) {
-            System.out.println("Yes, I can make that amount of coffee");
-                 //   + " (and even " + coffeMadeableAfterMakingSome + " after that)");
+            System.out.println("Yes, I can make that amount of coffee (and even " + coffeMadeableAfterMakingSome + " after that)");
         }
 
     }
