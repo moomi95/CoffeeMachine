@@ -278,5 +278,31 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5333#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: "Error in test #1\n\nProgram ran out of input. You tried to read more than\
+    \ expected.\n\nPlease find below the output of your program during this failed\
+    \ test.\nNote that the &#39;&gt;&#39; character indicates the beginning of the\
+    \ input line.\n\n---\n\nThe coffe machine has: \n400 ml of water\n540 ml of milk\n\
+    120 g of coffee beans\n9 dsposable cups\n$550 of money\nWrite action (buy, fill,\
+    \ take, remaining, exit): \n&gt; remaining\nThe coffe machine has: \n400 ml of\
+    \ water\n540 ml of milk\n120 g of coffee beans\n9 dsposable cups\n$550 of money\n\
+    Write action (buy, fill, take, remaining, exit): \n&gt; buy\nWhat do you want\
+    \ to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:\n&gt;\
+    \ 2\nI have enough resources, making you a coffee!\nWrite action (buy, fill, take,\
+    \ remaining, exit): \n&gt; buy\nWhat do you want to buy? 1 - espresso, 2 - latte,\
+    \ 3 - cappuccino, back - to main menu:\n&gt; 2\nSorry, not enough water!\nWrite\
+    \ action (buy, fill, take, remaining, exit): \n&gt; fill\nWrite how many ml of\
+    \ water you want to add: \n&gt; 1000\nWrite how many ml of milk you want to add:\
+    \ \n&gt; 0\nWrite how many grams of coffee you want to add: \n&gt; 0\nWrite how\
+    \ many disposable cups of coffee you want to add: \n&gt; 0\nThe coffe machine\
+    \ has: \n1050 ml of water\n465 ml of milk\n100 g of coffee beans\n8 dsposable\
+    \ cups\n$557 of money\nWrite action (buy, fill, take, remaining, exit): \n&gt;\
+    \ buy\nWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back\
+    \ - to main menu:\n&gt; 2\nI have enough resources, making you a coffee!\nWrite\
+    \ action (buy, fill, take, remaining, exit): \n&gt; take\nI give you $564\nWrite\
+    \ action (buy, fill, take, remaining, exit): \n&gt; remaining\nThe coffe machine\
+    \ has: \n700 ml of water\n390 ml of milk\n80 g of coffee beans\n7 dsposable cups\n\
+    $0 of money\nWrite action (buy, fill, take, remaining, exit): \n&gt; exit"
+  time: Sun, 23 Jan 2022 10:23:30 UTC
+record: 5

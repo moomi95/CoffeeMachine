@@ -182,15 +182,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5331#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nYour output:\n&gt;Yes, I can make that amount\
-    \ of coffee\nRight output:\nYes, I can make that amount of coffee\n\nPlease find\
-    \ below the output of your program during this failed test.\nNote that the &#39;&gt;&#39;\
-    \ character indicates the beginning of the input line.\n\n---\n\nWrite how many\
-    \ ml of water the coffee machine has: \n&gt;&gt; 300\nWrite how many ml of milk\
-    \ the coffee machine has: \n&gt;&gt; 65\nWrite how many grams of coffee beans\
-    \ the coffee machines has: \n&gt;&gt; 111\nWrite how many cups of coffee you will\
-    \ need: \n&gt;&gt; 1\nYes, I can make that amount of coffee"
-  time: Sun, 16 Jan 2022 18:08:47 UTC
-record: -1
+  message: Congratulations!
+  time: Wed, 19 Jan 2022 22:48:04 UTC
+record: 3
